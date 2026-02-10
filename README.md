@@ -42,6 +42,5 @@ The target variable is **revenue**.
 The final model predicts revenue for unseen movies and generates a submission file 
 in the required Kaggle format.
 
-## Author
-**Gungun**  
-First-year undergraduate student interested in Machine Learning and Data Science.
+## Contact
+**Gungun**  GitHub:GungunSurana
