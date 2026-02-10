@@ -28,8 +28,8 @@ The target variable is **revenue**.
 
 ## Models Used
 - Linear Regression (baseline)
-- Random Forest Regressor
-- XGBoost Regressor (best performance)
+- Random Forest Regressor(best performance)
+- XGBoost Regressor
 
 ## Evaluation Metric
 - Root Mean Squared Error (RMSE)
